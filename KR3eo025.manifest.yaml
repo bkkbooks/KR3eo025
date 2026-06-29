@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR3eo025/v1
+canonical_location: https://kanripo.org/bkk/KR3eo025/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 養生四要
+  identifiers:
+    krp: KR3eo025
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo025.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo025_000.yaml, hash: 'sha256:f0b148b1c166f58ca33728b2f3071318a9f0403701a5ec7d3483d592984e1a1a'}
+  - {seq: 1, filename: KR3eo025_001.yaml, hash: 'sha256:a9fa4d6b6b8a41451f9c1918f73fc78538ee20fc4844916a551b30a1ec825f74'}
+  - {seq: 2, filename: KR3eo025_002.yaml, hash: 'sha256:db6f86b836828ab747375d133f1630c7a1c4e12c08f73e6aee2bee6b728c15c9'}
+  - {seq: 4, filename: KR3eo025_004.yaml, hash: 'sha256:ac191ab03501672a2b1de31f400030cc323f98743daae8216579303f6a6c4f6b'}
+  - {seq: 5, filename: KR3eo025_005.yaml, hash: 'sha256:e2a473079557b30fe34da624de7a98d504e1b6a75fc4a3bc371132accb1ed4e6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo025_000.markers.yaml, hash: 'sha256:0461874004c03d834bdab139e4a4095e642db0d60401514d0661ec4bd26ab516'}
+  - {seq: 1, role: markers, filename: assets/KR3eo025_001.markers.yaml, hash: 'sha256:560aa6e920cac866b0ca07db0ed7efc58e65c0cad408818745cc814ab261204f'}
+  - {seq: 2, role: markers, filename: assets/KR3eo025_002.markers.yaml, hash: 'sha256:895ccb40be93116db4760211d85bf51401225c52bf3154a9947a775aa3e94332'}
+  - {seq: 4, role: markers, filename: assets/KR3eo025_004.markers.yaml, hash: 'sha256:4903c886babef6a903fc42a746eb119b08fcbddb61743329250bf86e19f8f1ce'}
+  - {seq: 5, role: markers, filename: assets/KR3eo025_005.markers.yaml, hash: 'sha256:d6df2ae48e5a2a79e0345fef00840eb1a35f36ca3ecb13a39ae6784cf95232df'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo025_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 321
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo025_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5105
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eo025_jc_001-d3d4
+    span:
+    - body
+    - 110
+    - 5105
+  label: 寡欲第一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo025_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7928
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eo025_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 4489
+  label: 慎動第二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo025_jc_002-d4d3
+    span:
+    - body
+    - 4489
+    - 4492
+  label: 卷之三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eo025_jc_002-d4d4
+    span:
+    - body
+    - 4492
+    - 7928
+  label: 法時第三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eo025_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13003
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eo025_jc_004-d5d2
+    span:
+    - body
+    - 3
+    - 13003
+  label: 卻疾第四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eo025_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5314
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eo025_jc_005-d6d2
+    span:
+    - body
+    - 3
+    - 5314
+  label: 養生總論
+  type: section
+  level: 2
+hash: sha256:2f3114eb731a4cf8741decfdcdfb9e444e0adcf88658a022c218e42b8820c8cf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

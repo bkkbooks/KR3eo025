@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo025_000.yaml, hash: 'sha256:f0b148b1c166f58ca33728b2f3071318a9f0403701a5ec7d3483d592984e1a1a'}
+  - {seq: 0, filename: KR3eo025_000.yaml, hash: 'sha256:4df14d5c5b40c34f5f20761130c08e7f124b3bdd792528c0d5bc18f524d1835f'}
   - {seq: 1, filename: KR3eo025_001.yaml, hash: 'sha256:0f86ad80cceabad87e0ac54a9398b1efc7aab5569cf19011ce77b53a8bcd89a9'}
   - {seq: 2, filename: KR3eo025_002.yaml, hash: 'sha256:4146f750909cb988d5563867b9f8cd10f03b36a5ee1a3b7ff275b130247de282'}
   - {seq: 4, filename: KR3eo025_004.yaml, hash: 'sha256:7e0d91f933dd1e4b8b71d370909e080216f72ae83c73765388afacbe6ab7f6e8'}
   - {seq: 5, filename: KR3eo025_005.yaml, hash: 'sha256:174cc7557e34af2b5075c40c8c745a01d60665eb14de2823c059ad74d0111a92'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo025_000.markers.yaml, hash: 'sha256:6e4a968a408f73f33aa5a2797a774ae1c2bc9e8c3dc063b56c20963c3493668e'}
+  - {seq: 0, role: markers, filename: assets/KR3eo025_000.markers.yaml, hash: 'sha256:5558711e695062c0ddbf5dc8a6c229ae2fe48f3048bd8ae3f756f2eca01860d7'}
   - {seq: 1, role: markers, filename: assets/KR3eo025_001.markers.yaml, hash: 'sha256:b0bd7619d0c2120b34c95c30fa6e71e45316765b44d68bdd73764f039a0b0aa6'}
   - {seq: 2, role: markers, filename: assets/KR3eo025_002.markers.yaml, hash: 'sha256:94f0748d3ef6015a53b50af3fb4fef94ab1d195e716969b183828c05ced6f4bb'}
   - {seq: 4, role: markers, filename: assets/KR3eo025_004.markers.yaml, hash: 'sha256:f55617ae3faf4186298a54ef8dd8e6f5395f0099b276ba9b58283b37ae5a5721'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eo025_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 321
   label: 序
@@ -139,7 +139,7 @@ table_of_contents:
   label: 養生總論
   type: section
   level: 2
-hash: sha256:dc79ade5098a1affa8f7f81b3732572e94de26706ac66c8600f84beee52fd6f7
+hash: sha256:1e290d0127858557a721397558ef9e4897dfac5c5a40ca9ca1e46b9fd956135b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

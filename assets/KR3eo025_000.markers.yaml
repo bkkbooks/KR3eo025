@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3eo025/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 1, content: '', id: KR3eo025_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3eo025_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 1, content: '', id: KR3eo025_jc_000-d2.p2s1}
   - {type: punctuation, offset: 4, content: ，, id: KR3eo025_jc_000-bkkpn1}
@@ -156,6 +156,5 @@ markers:
   - {type: substitution, offset: 318, original: 坚, replacement: 堅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16503}}
   - {type: punctuation, offset: 321, content: 。, id: KR3eo025_jc_000-bkkpn73}
   - {type: xml-element, offset: 321, content: '', id: KR3eo025_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3eo025_jc_000-d2p2}}
-  body: []
   back: []
-hash: sha256:6e4a968a408f73f33aa5a2797a774ae1c2bc9e8c3dc063b56c20963c3493668e
+hash: sha256:5558711e695062c0ddbf5dc8a6c229ae2fe48f3048bd8ae3f756f2eca01860d7
